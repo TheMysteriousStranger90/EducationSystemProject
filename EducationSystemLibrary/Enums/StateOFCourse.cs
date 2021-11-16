@@ -2,6 +2,9 @@
 {
     public enum StateOFCourse
     {
-        
+        Awaiting,
+        Recruitment,
+        AtProcess,
+        Finished
     }
 }

@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using EducationSystemLibrary.Models;
 
 namespace EducationSystemLibrary.Interfaces
 {
