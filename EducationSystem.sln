@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EducationSystemLibrary", "EducationSystemLibrary\EducationSystemLibrary.csproj", "{CAFF3ACA-6500-4AF3-A59F-D743DD0F9CAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAFF3ACA-6500-4AF3-A59F-D743DD0F9CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAFF3ACA-6500-4AF3-A59F-D743DD0F9CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAFF3ACA-6500-4AF3-A59F-D743DD0F9CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAFF3ACA-6500-4AF3-A59F-D743DD0F9CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
